@@ -1,8 +1,8 @@
 ﻿Console.WriteLine("Hello, World!");
 const int МАКС_БАЛЛ = 5;
-string имя = "Алексей";
-string фамилия = "Петров";
-int возраст = 19;
+string имя = "Фёдор";
+string фамилия = "Зеленцов";
+int возраст = 17;
 double оценкаМатематика = 4.5;
 double оценкаПрограммирование = 5.0;
 bool учитсяНаБюджете = true;
