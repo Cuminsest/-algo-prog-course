@@ -1,0 +1,15 @@
+C:\Users\User\-algo-prog-course\Lab01\bin\Debug\net10.0\Lab01.exe
+C:\Users\User\-algo-prog-course\Lab01\bin\Debug\net10.0\Lab01.deps.json
+C:\Users\User\-algo-prog-course\Lab01\bin\Debug\net10.0\Lab01.runtimeconfig.json
+C:\Users\User\-algo-prog-course\Lab01\bin\Debug\net10.0\Lab01.dll
+C:\Users\User\-algo-prog-course\Lab01\bin\Debug\net10.0\Lab01.pdb
+C:\Users\User\-algo-prog-course\Lab01\obj\Debug\net10.0\Lab01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\-algo-prog-course\Lab01\obj\Debug\net10.0\Lab01.AssemblyInfoInputs.cache
+C:\Users\User\-algo-prog-course\Lab01\obj\Debug\net10.0\Lab01.AssemblyInfo.cs
+C:\Users\User\-algo-prog-course\Lab01\obj\Debug\net10.0\Lab01.csproj.CoreCompileInputs.cache
+C:\Users\User\-algo-prog-course\Lab01\obj\Debug\net10.0\Lab01.sourcelink.json
+C:\Users\User\-algo-prog-course\Lab01\obj\Debug\net10.0\Lab01.dll
+C:\Users\User\-algo-prog-course\Lab01\obj\Debug\net10.0\refint\Lab01.dll
+C:\Users\User\-algo-prog-course\Lab01\obj\Debug\net10.0\Lab01.pdb
+C:\Users\User\-algo-prog-course\Lab01\obj\Debug\net10.0\Lab01.genruntimeconfig.cache
+C:\Users\User\-algo-prog-course\Lab01\obj\Debug\net10.0\ref\Lab01.dll
